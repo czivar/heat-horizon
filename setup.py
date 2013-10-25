@@ -44,6 +44,7 @@ setuptools.setup(
     package_data={
         'thermal': ['templates/thermal/*',
                     'stacks/templates/stacks/*',
+                    'catalogues/templates/catalogues/*',
                    ],
     },
     py_modules=[])
